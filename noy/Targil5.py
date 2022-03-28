@@ -1,0 +1,7 @@
+num1=(input("enter first number pleas: "))
+num2=(input("enter second number pleas: "))
+num3=(input("enter third number pleas: "))
+sum=(num1+num2+num3)
+print(sum)
+sum=int(sum)
+print(sum*2)
